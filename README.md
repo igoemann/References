@@ -36,7 +36,7 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
   Um documento detalhado que explora os fundamentos e melhores práticas para utilizar o BigQuery.  
   [Baixar PDF](https://exemplo.com/guia-bigquery.pdf)
 
-### Repositórios de Exemplo
+### Repositórios
 
 - **QuantConnect**  
   Algorithmic Trading Platform.  
