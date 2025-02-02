@@ -40,7 +40,7 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 
 - **QuantConnect**  
   Algorithmic Trading Platform.  
-  [Ver Repositório]([https://github.com/exemplo/repo2](https://github.com/QuantConnect/Lean))
+  [Ver Repositório](https://github.com/QuantConnect)
 
 
 ### Cursos Online
