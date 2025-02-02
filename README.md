@@ -1,7 +1,5 @@
-# References
+# IGML_Finance
 Referencias para construir o projeto IGML_Finance
-# Nome do Projeto
-
 Este repositório reúne uma coleção de recursos para auxiliar no desenvolvimento e estudo de projetos envolvendo análise de dados financeiros, ELT, BigQuery e machine learning. Aqui você encontrará vídeos tutoriais, documentos PDF e exemplos de repositórios no GitHub.
 
 ## Índice
