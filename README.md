@@ -45,7 +45,7 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 
 - **PySpark With Python**  
   Pyspark with Python   
-  [Ver Repositório](https://github.com/krishnaik06/Pyspark-With-Python).  
+  [Ver Repositório](https://github.com/krishnaik06/Pyspark-With-Python). [Ver Video Youtube](https://www.youtube.com/watch?v=_C8kWso4ne4)
   
 
 ### Cursos Online
