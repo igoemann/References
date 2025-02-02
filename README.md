@@ -39,7 +39,7 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 ### Repositórios
 
 - **QuantConnect**  
-  Algorithmic Trading Platform.  
+  Algorithmic Trading Platform.  Free market Data.
   [Ver Repositório](https://github.com/QuantConnect)
 
 
