@@ -53,15 +53,17 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
  This is a self-paced lab that takes place in the Google Cloud console. In this hands-on lab, you will import synthetic data* representing financial records offloaded from a bank’s mainframe.   
   [Coursera](https://www.coursera.org/projects/googlecloud-offloading-financial-mainframe-data-into-bigquery-and-elastic-ybzf3)
 
-
-
-  
-
 ### Aprendendo Programação  
 
 - **Freecodecamp**  
   Cursos grátis de diferentes linguagens.  
   [Freecodecamp.org](https://www.freecodecamp.org)
+
+### Tools
+
+- **Apache Spark*  
+  Apache Spark™ is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.  
+  [Apache Spark](https://spark.apache.org/)
 
 
 ## Como Contribuir
