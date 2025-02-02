@@ -30,41 +30,24 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
   Uma visão geral sobre como configurar e utilizar o BigQuery para análise de dados.  
   [Assistir no YouTube](https://www.youtube.com/watch?v=EXEMPLO1)
 
-- **ELT na Prática**  
-  Demonstração de um pipeline ELT aplicado a um caso real de integração de dados.  
-  [Assistir no YouTube](https://www.youtube.com/watch?v=EXEMPLO2)
-
-- **Machine Learning com Python**  
-  Tutorial completo que aborda desde os conceitos básicos até a implementação prática de algoritmos de machine learning.  
-  [Assistir no YouTube](https://www.youtube.com/watch?v=EXEMPLO3)
-
 ### Documentos PDF
 
 - **Guia Completo do BigQuery**  
   Um documento detalhado que explora os fundamentos e melhores práticas para utilizar o BigQuery.  
   [Baixar PDF](https://exemplo.com/guia-bigquery.pdf)
 
-- **Introdução ao Machine Learning**  
-  Material teórico e prático, abordando os conceitos essenciais para o desenvolvimento de projetos de machine learning.  
-  [Baixar PDF](https://exemplo.com/intro-ml.pdf)
-
-- **Estratégias de ELT e Data Warehousing**  
-  Documento explicativo que discute a integração dos processos ELT com arquiteturas de data warehousing.  
-  [Baixar PDF](https://exemplo.com/elt-datawarehousing.pdf)
-
 ### Repositórios de Exemplo
+
+- **QuantConnect**  
+  Algorithmic Trading Platform.  
+  [Ver Repositório]([https://github.com/exemplo/repo2](https://github.com/QuantConnect/Lean))
+
+
+### Cursos Online
 
 - **Projeto ELT e BigQuery**  
   Repositório de exemplo que demonstra a implementação de um pipeline ELT integrado ao BigQuery.  
   [Ver Repositório](https://github.com/exemplo/repo1)
-
-- **Análise de Dados com Python**  
-  Projeto contendo scripts e notebooks para a análise de dados financeiros utilizando Python.  
-  [Ver Repositório](https://github.com/exemplo/repo2)
-
-- **Machine Learning na Prática**  
-  Exemplo prático de implementação de algoritmos de machine learning em Python, com documentação detalhada.  
-  [Ver Repositório](https://github.com/exemplo/repo3)
 
 ## Como Contribuir
 
