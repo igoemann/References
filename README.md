@@ -49,6 +49,13 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
   Repositório de exemplo que demonstra a implementação de um pipeline ELT integrado ao BigQuery.  
   [Ver Repositório](https://github.com/exemplo/repo1)
 
+### Aprendendo Programação  
+
+- **Freecodecamp**  
+  Cursos grátis de diferentes linguagens.  
+  [Freecodecamp.org](https://www.freecodecamp.org)
+
+
 ## Como Contribuir
 
 Contribuições para o aprimoramento deste repositório são bem-vindas. Se você deseja colaborar, siga as instruções abaixo:
