@@ -48,6 +48,14 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 - **Projeto ELT e BigQuery**  
   Repositório de exemplo que demonstra a implementação de um pipeline ELT integrado ao BigQuery.  
   [Ver Repositório](https://github.com/exemplo/repo1)
+  
+- **Offloading Financial Mainframe Data into BigQuery - Google Cloud**  
+ This is a self-paced lab that takes place in the Google Cloud console. In this hands-on lab, you will import synthetic data* representing financial records offloaded from a bank’s mainframe.   
+  [Coursera](https://www.coursera.org/projects/googlecloud-offloading-financial-mainframe-data-into-bigquery-and-elastic-ybzf3)
+
+
+
+  
 
 ### Aprendendo Programação  
 
