@@ -39,8 +39,8 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 ### Repositórios
 
 - **QuantConnect**  
-  Algorithmic Trading Platform.  Free market Data.
-  [Ver Repositório](https://github.com/QuantConnect).
+  Algorithmic Trading Platform.  Free market Data.  
+  [Ver Repositório](https://github.com/QuantConnect).  
   [Curso Online Udemy](https://www.udemy.com/course/the-complete-course-on-coding-trading-bots-using-python/?couponCode=2021PM25)
 
 ### Cursos Online
