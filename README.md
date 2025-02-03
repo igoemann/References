@@ -46,6 +46,12 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 - **PySpark With Python**  
   Pyspark with Python   
   [Ver Repositório](https://github.com/krishnaik06/Pyspark-With-Python). [Ver Video Youtube](https://www.youtube.com/watch?v=_C8kWso4ne4)
+
+- **Coding with Adam - Exemples**  
+  Coding with Adam     
+  [Ver Repositório](https://github.com/Coding-with-Adam?tab=repositories). 
+
+  
   
 
 ### Cursos Online
