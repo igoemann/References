@@ -26,9 +26,9 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 
 ### Vídeos de Exemplo
 
-- **Introdução ao BigQuery**  
-  Uma visão geral sobre como configurar e utilizar o BigQuery para análise de dados.  
-  [Assistir no YouTube](https://www.youtube.com/watch?v=EXEMPLO1)
+- **Python e BigQuery**  
+  Videos de 1 a 5 sobre a interação entre os dosi.  
+  [Assistir no YouTube](https://www.youtube.com/watch?v=0Kseto5BctM)
 
 ### Documentos PDF
 
