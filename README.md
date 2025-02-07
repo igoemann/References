@@ -30,6 +30,17 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
   Videos de 1 a 5 sobre a interação entre os dosi.  
   [Assistir no YouTube](https://www.youtube.com/watch?v=0Kseto5BctM)
 
+- **Deply a Python Visualization App in Google Cloud**  
+  Deploy a Python Visualization Panel App to Google Cloud App Engine
+  [Assistir no YouTube](https://www.youtube.com/watch?v=lxG0NckUUuw)
+
+- **Deply a Python Dashboard in Google Cloud**  
+  Deploy a Python Visualization Panel App to Google Cloud App Engine
+  [Assistir no YouTube]([https://www.youtube.com/watch?v=lxG0NckUUuw](https://www.youtube.com/watch?v=cmexkqJoOBU))
+
+
+  
+
 ### Documentos PDF
 
 - **Guia Completo do BigQuery**  
