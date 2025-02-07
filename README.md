@@ -36,9 +36,11 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 
 - **Deply a Python Dashboard in Google Cloud**  
   Deploy a Python Visualization Panel App to Google Cloud App Engine
-  [Assistir no YouTube]([https://www.youtube.com/watch?v=lxG0NckUUuw](https://www.youtube.com/watch?v=cmexkqJoOBU))
+  [Assistir no YouTube](https://www.youtube.com/watch?v=cmexkqJoOBU)
 
-
+- **Dash de ações com Python**  
+  DDashboard de Ações com Python | Do ZERO ao DEPLOY | Python para Investidores 2024
+  [Assistir no YouTube](https://www.youtube.com/watch?v=LAHlE_Lt9N4)
   
 
 ### Documentos PDF
@@ -61,6 +63,10 @@ Os recursos aqui disponibilizados foram cuidadosamente selecionados para oferece
 - **Coding with Adam - Exemples**  
   Coding with Adam     
   [Ver Repositório](https://github.com/Coding-with-Adam?tab=repositories). 
+
+- **Codigo Quant**  
+  Ciência de Dados Aplicada ao Mercado Financeiro.    
+  [Ver Repositório](https://github.com/codigoquant?tab=repositories). 
 
   
   
